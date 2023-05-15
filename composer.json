@@ -16,7 +16,7 @@
         "php": "^7.2|^8.0",
         "babdev/pagerfanta-bundle": "^2.5",
         "doctrine/orm": "^2.5",
-        "doctrine/dbal": "^2.5",
+        "doctrine/dbal": "*",
         "doctrine/doctrine-bundle": "^1.12.3|^2.0.3",
         "doctrine/doctrine-cache-bundle": "^1.2",
         "friendsofsymfony/user-bundle": "^2.0",
